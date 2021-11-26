@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1A7F872F275082D700E54D54 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A7F872E275082D700E54D54 /* AppDelegate.m */; };
-		1A7F8732275082D700E54D54 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A7F8731275082D700E54D54 /* SceneDelegate.m */; };
 		1A7F8735275082D700E54D54 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A7F8734275082D700E54D54 /* ViewController.m */; };
 		1A7F8738275082D700E54D54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A7F8736275082D700E54D54 /* Main.storyboard */; };
 		1A7F873A275082D800E54D54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A7F8739275082D800E54D54 /* Assets.xcassets */; };
@@ -39,8 +38,6 @@
 		1A7F872A275082D700E54D54 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A7F872D275082D700E54D54 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1A7F872E275082D700E54D54 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		1A7F8730275082D700E54D54 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		1A7F8731275082D700E54D54 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
 		1A7F8733275082D700E54D54 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		1A7F8734275082D700E54D54 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		1A7F8737275082D700E54D54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -106,8 +103,6 @@
 			children = (
 				1A7F872D275082D700E54D54 /* AppDelegate.h */,
 				1A7F872E275082D700E54D54 /* AppDelegate.m */,
-				1A7F8730275082D700E54D54 /* SceneDelegate.h */,
-				1A7F8731275082D700E54D54 /* SceneDelegate.m */,
 				1A7F8733275082D700E54D54 /* ViewController.h */,
 				1A7F8734275082D700E54D54 /* ViewController.m */,
 				1A7F8736275082D700E54D54 /* Main.storyboard */,
@@ -269,7 +264,6 @@
 				1A7F8735275082D700E54D54 /* ViewController.m in Sources */,
 				1A7F872F275082D700E54D54 /* AppDelegate.m in Sources */,
 				1A7F8740275082D800E54D54 /* main.m in Sources */,
-				1A7F8732275082D700E54D54 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
